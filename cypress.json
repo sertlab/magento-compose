@@ -1,0 +1,6 @@
+{
+  "wp": {
+    "version": ["5.5"],
+    "plugins": ["/home/vsts/work/1/s", "/home/vsts/work/1/woocommerce"]
+  }
+}
